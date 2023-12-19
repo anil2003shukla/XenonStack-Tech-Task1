@@ -24,10 +24,10 @@ Open the project in your browser at http://localhost:3000 to view your project.
 
 The project is set up to use postcss-cli to process your CSS files. You can add your own tailwind.config.js file to customize your Tailwind setup.
 Installation
-git clone https://github.com/himanshu8443/Study-Notion-master.git
+https://github.com/anil2003shukla/XenonStack-Tech-Task1.git
 Install the required packages.
 
-cd Study-Notion-master
+cd Study-Notion
 npm install
 
 cd server
