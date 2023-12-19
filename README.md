@@ -39,6 +39,14 @@ Create a .env file in the root directory and /server Add the required environmen
 Start the development server.
 
 npm run dev
+# Usage
+[Provide instructions on how to use your application. Include any important details about functionality, features, or configuration.]
+# Technologies Used
+MongoDB
+Express.js
+React
+Node.js
+[Include any additional technologies or libraries used in your project.]
 
 HomePage
 ![Screenshot (103)](https://github.com/anil2003shukla/XenonStack-Tech-Task1/assets/121477412/3046127e-a4b3-4b31-95f6-e0aa13b64219)
