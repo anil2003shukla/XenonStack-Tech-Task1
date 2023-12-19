@@ -39,3 +39,13 @@ Create a .env file in the root directory and /server Add the required environmen
 Start the development server.
 
 npm run dev
+
+HomePage
+![Screenshot (103)](https://github.com/anil2003shukla/XenonStack-Tech-Task1/assets/121477412/3046127e-a4b3-4b31-95f6-e0aa13b64219)
+SignUp Page
+![Screenshot (105)](https://github.com/anil2003shukla/XenonStack-Tech-Task1/assets/121477412/4f024f10-d692-4fe4-ac78-43f2952c7f9e)
+Contact Us
+
+![Screenshot (106)](https://github.com/anil2003shukla/XenonStack-Tech-Task1/assets/121477412/a1d5a089-6927-4a9a-bad5-808960de6dbe)
+Profile
+![Screenshot (107)](https://github.com/anil2003shukla/XenonStack-Tech-Task1/assets/121477412/92b529cf-d973-478d-8ba9-e4941ad700e2)
